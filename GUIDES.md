@@ -2,7 +2,7 @@
 
 ## OS
 
-- compatible both `Linux` and 'Windows`
+- compatible both `Linux` and `Windows`
 
 # Editor
 
